@@ -1,0 +1,35 @@
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Form1.resources
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.EditStage.resources
+\\banner.main.ad.rit.edu\students\nem4265\igmprofile\documents\visual studio 2010\Projects\MapEditor\MapEditor\obj\x86\Debug\MapEditor.NewLevel.resources
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\MapEditor.exe
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\MapEditor.pdb
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\MapEditor.EditStage.resources
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\MapEditor.Form1.resources
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\MapEditor.NewLevel.resources
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\XNA Files\Group Project\Map Editor\MapEditor\bin\Debug\MapEditor.exe
+D:\XNA Files\Group Project\Map Editor\MapEditor\bin\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\bin\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\bin\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\MapEditor.EditStage.resources
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\MapEditor.Form1.resources
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\MapEditor.NewLevel.resources
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+\\banner.main.ad.rit.edu\students\nem4265\IGMProfile\Desktop\StackOverflow\Map Editor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\MapEditor.exe
+H:\XNA Files\Group Project\Map Editor\MapEditor\obj\x86\Debug\MapEditor.pdb
